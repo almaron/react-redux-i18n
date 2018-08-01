@@ -2335,9 +2335,9 @@ rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-i18nify@^1.11.8:
-  version "1.11.14"
-  resolved "https://registry.yarnpkg.com/react-i18nify/-/react-i18nify-1.11.14.tgz#e88acdba4766815b91edcecd222aa1242f422ff3"
+"react-i18nify@https://github.com/almaron/react-i18nify.git":
+  version "1.12.0"
+  resolved "https://github.com/almaron/react-i18nify.git#1878f848b561c1554894bd0bb8a5aa77642b0306"
   dependencies:
     intl "^1.2"
     moment "^2.22.1"
